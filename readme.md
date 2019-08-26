@@ -1,0 +1,1 @@
+This is my note of the javascript.info website
