@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Javascript.info notes"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+
+[author]
+  name = "Vachirarat Thavisaengsiri"
+  homepage = "http://localhost:1313"
